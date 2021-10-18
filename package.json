@@ -39,7 +39,7 @@
   "dependencies": {
     "@scrypta/bip39": "^3.0.4",
     "@scrypta/coinkey": "^3.0.2",
-    "axios": "^0.21.0",
+    "axios": "^0.21.2",
     "binstring": "^0.2.1",
     "browser-cookies": "^1.2.0",
     "create-hash": "^1.2.0",
